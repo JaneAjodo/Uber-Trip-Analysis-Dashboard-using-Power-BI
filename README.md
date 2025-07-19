@@ -42,6 +42,7 @@ To derive insights from Uber ride data by analyzing booking patterns, trip dista
 **Jane Ajodo**  
 - LinkedIn: [linkedin.com/in/jane-ajodo](https://www.linkedin.com/in/jane-ajodo)  
 - GitHub: [github.com/JaneAjodo](https://github.com/JaneAjodo)
+View full project here Powerbi: [Uber Sales Analysis](https://1drv.ms/u/c/43c5c47beeed243f/Ea-QGa04BeFFghVVa7HQEbsBTlZ0Tjvux__EuPrvznNbjg?e=brfS29)
 
 ---
 
